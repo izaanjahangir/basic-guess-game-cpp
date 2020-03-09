@@ -44,7 +44,7 @@ void play_game(int random_number, vector<int> &guesses)
 {
     int user_guess;
 
-    cout << "\nRandomly generate number is: " << random_number << endl;
+    // cout << "\nRandomly generate number is: " << random_number << endl;
 
     cout << "Enter your guess: ";
     cin >> user_guess;
